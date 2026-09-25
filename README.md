@@ -86,6 +86,7 @@ The management of TediCare General Hospital has noticed increasing patient compl
 
 ---
 **Data Cleaning and Transformation**
+
 This was done using Excel and Power Query.
 -	Gender column was standardized using the “Find and Replace” function in Excel.
 -	Blank cells in the comment column were replaced with “No response” in Power Query
