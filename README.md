@@ -8,13 +8,15 @@
  --- 
  ## Executive Summary
 The Hospital Operations & Patient Flow Analytics project was developed to provide a consolidated view of hospital activity and identify operational factors that may affect patient experience. The analysis focuses on appointments, waiting time, departments, doctors, treatments and procedures, patient outcomes and insurance type.
+
 The dataset contains 2,000 appointments involving 501 patients and 25 doctors across a six-month period. The dashboard reports an overall average waiting time of 21 minutes, with a maximum waiting time of 40 minutes. Approximately 60.6% of appointments were completed within the defined waiting-time target.
+
 Department-level analysis shows meaningful variation in waiting-time performance in relation to the departments target times. Emergency has the strongest target compliance at 74%, while Outpatient has the lowest at 39%. Radiology, Orthopaedics and Emergency have average waiting times below their respective targets, whereas Paediatrics, Outpatient and Cardiology are at or above their targets.
 The analysis also highlights differences in appointment volume and resource allocation. Paediatrics records the highest appointment volume (494) and has six doctors, while Radiology records the lowest volume (156) and has two doctors.
 
 ---
 ## Problem Statement 
-- The management of TediCare General Hospital has noticed increasing patient complaints about long waiting times. Some patients leave before being seen, doctors are overwhelmed on certain days, and hospital resources don't seem to be allocated efficiently.
+The management of TediCare General Hospital has noticed increasing patient complaints about long waiting times. Some patients leave before being seen, doctors are overwhelmed on certain days, and hospital resources don't seem to be allocated efficiently.
 
  --- 
 
@@ -29,7 +31,6 @@ The analysis also highlights differences in appointment volume and resource allo
 --- 
 
 ## Datasets 
--  **City Hospital Dataset.xlsx** — patient_id, age, gender, admission date, department
 | Table | fields |
 | -------------- | ------------- |
 | Appointments	| Appointment ID, Patient ID, Doctor ID, Department, date, time, status, waiting time |
