@@ -95,39 +95,29 @@ This was done using Excel and Power Query.
 
 ---
 ## Key Findings 
-- Paediatrics department recorded the hightest appointments (494).
-- This is followed by Orthopaedics (405) and Outpatient (399). 
-- These three departments account for about 65% of all appointments.
-Doctor workload is relatively balanced across department.
-However, this is not enough to determine whether more doctors are needed.
-More than 45% (789) of the completed appointments met the department-specific waiting time target.
-This is still a large percentage.
-1,696 appointments were completed. 
-184 cancellations and 120 no-shows.
-Outpatients shows the greatest concern 40% above target.
-Emergency is below its departmental target.
-However, its target wait time should be assessed, given the urgent nature of emergency care.
-Outpatient: highest above-target appointments (52.13%)
-Emergency: lowest above-target appointments (21.12%)
-Doctors’ Workload is uneven
-Varying from 64 -100 appointment
-Dr E5: highest workload / part-time
-Dr H8: lowest workload/ full-time
-Scheduled capacity for each doctor ranges from 450-496 hours.
-However, recorded consultation duration was only 24-37 hours per doctor.
-Only a small portion of their scheduled working time was spent in recorded consultation.
-The remaining working hours may be spent on other clinical duties such as ward rounds.
-Long wait time may be driven by workflow factors or unrecorded activities.
-About 18% of the feedback suggest a need for improvement.
-16% cited long wait time.
-Orthopaedics and Emergency have the highest average rating at 3.1.
-Radiology is lowest at 2.8
+- Paediatrics department recorded the hightest appointments (494). This is followed by Orthopaedics (405) and Outpatient (399). These three departments account for about 65% of all appointments.
+ 
+- Doctor workload is relatively balanced across department. However, this is not enough to determine whether more doctors are needed.
+
+- More than 45% (789) of the completed appointments met the department-specific waiting time target. This is still a large percentage. 1,696 appointments were completed.  184 cancellations and 120 no-shows.
+
+- Outpatients shows the greatest concern 40% above target. Emergency is below its departmental target. However, its target wait time should be assessed, given the urgent nature of emergency care.
+
+- Outpatient: highest above-target appointments (52.13%). Emergency: lowest above-target appointments (21.12%).
+
+- Doctors’ Workload is uneven. Varying from 64 -100 appointment. Dr E5: highest workload / part-time while Dr H8: lowest workload/ full-time.
+
+- Scheduled capacity for each doctor ranges from 450-496 hours. However, recorded consultation duration was only 24-37 hours per doctor. Only a small portion of their scheduled working time was spent in recorded consultation. The remaining working hours may be spent on other clinical duties such as ward rounds. Long wait time may be driven by workflow factors or unrecorded activities.
+
+- About 18% of the feedback suggest a need for improvement. 16% cited long wait time.
+
+- Orthopaedics and Emergency have the highest average rating at 3.1. Radiology is lowest at 2.8
 
 
 --- 
 
 ## Recommendations 
--Investigate the cause of delay by conducting a process review to determine whether delays come from late clinic start, registration, or doctor availability.
+- Investigate the cause of delay by conducting a process review to determine whether delays come from late clinic start, registration, or doctor availability.
 - Standardize clinic workflows.
 - Implement continuous performance monitoring.
 - Reduce no-shows and cancellations through active reminders and better appointment-management process.
